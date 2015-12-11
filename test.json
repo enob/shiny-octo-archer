@@ -1,0 +1,656 @@
+{ 
+    "returncode": 1,
+    "data": {
+        "id": "a_0",
+        "text": "菜单目录",
+        "value": "a_0",
+        "showcheck": true,
+        "complete": true,
+        "isexpand": true,
+        "checkstate": 0,
+        "ChildNodes": [
+            {
+                "id": "1001",
+                "text": "首页",
+                "value": "1001",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100110001",
+                        "text": "首页",
+                        "value": "100110001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1002",
+                "text": "小区管理",
+                "value": "1002",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100210001",
+                        "text": "开通小区",
+                        "value": "100210001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100210002",
+                        "text": "小区帐号管理",
+                        "value": "100210002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1003",
+                "text": "通知消息",
+                "value": "1003",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100310001",
+                        "text": "通知列表",
+                        "value": "100310001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100310002",
+                        "text": "发布通知",
+                        "value": "100310002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1004",
+                "text": "广告管理",
+                "value": "1004",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100410001",
+                        "text": "广告位管理",
+                        "value": "100410001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100410002",
+                        "text": "广告审核",
+                        "value": "100410002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1005",
+                "text": "调查问卷",
+                "value": "1005",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100510001",
+                        "text": "问卷管理",
+                        "value": "100510001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100510002",
+                        "text": "问卷历史",
+                        "value": "100510002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1006",
+                "text": "红包积分",
+                "value": "1006",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100610001",
+                        "text": "红包发放",
+                        "value": "100610001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100610002",
+                        "text": "分享内容设置",
+                        "value": "100610002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100610003",
+                        "text": "积分统计",
+                        "value": "100610003",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1007",
+                "text": "用户管理",
+                "value": "1007",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100710001",
+                        "text": "租户业主管理",
+                        "value": "100710001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100710002",
+                        "text": "运营用户管理",
+                        "value": "100710002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1008",
+                "text": "业主档案",
+                "value": "1008",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100810001",
+                        "text": "业主档案管理",
+                        "value": "100810001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1009",
+                "text": "周边服务",
+                "value": "1009",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "100910001",
+                        "text": "基础设施",
+                        "value": "100910001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "100910002",
+                        "text": "设施类型",
+                        "value": "100910002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1010",
+                "text": "信息审核",
+                "value": "1010",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "101010001",
+                        "text": "动态审核",
+                        "value": "101010001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101010002",
+                        "text": "闪屏设置",
+                        "value": "101010002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101010003",
+                        "text": "闪屏审核",
+                        "value": "101010003",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1011",
+                "text": "商家管理",
+                "value": "1011",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "101110001",
+                        "text": "店铺列表",
+                        "value": "101110001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110002",
+                        "text": "商品列表",
+                        "value": "101110002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110003",
+                        "text": "积分商城",
+                        "value": "101110003",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110004",
+                        "text": "商家类别设置",
+                        "value": "101110004",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110005",
+                        "text": "促销活动设置",
+                        "value": "101110005",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110006",
+                        "text": "支付方式设置",
+                        "value": "101110006",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110007",
+                        "text": "配送方式设置",
+                        "value": "101110007",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110008",
+                        "text": "商家统计",
+                        "value": "101110008",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110009",
+                        "text": "商城广告位管理",
+                        "value": "101110009",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110010",
+                        "text": "商城广告审核",
+                        "value": "101110010",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110011",
+                        "text": "促销广告",
+                        "value": "101110011",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101110012",
+                        "text": "促销广告审核",
+                        "value": "101110012",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1012",
+                "text": "结算管理",
+                "value": "1012",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "101210001",
+                        "text": "物业结算",
+                        "value": "101210001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101210002",
+                        "text": "商家结算",
+                        "value": "101210002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            },
+            {
+                "id": "1013",
+                "text": "运营统计",
+                "value": "1013",
+                "showcheck": true,
+                "complete": true,
+                "isexpand": true,
+                "checkstate": 1,
+                "ChildNodes": [
+                    {
+                        "id": "101310001",
+                        "text": "消息通知统计",
+                        "value": "101310001",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101310002",
+                        "text": "报修统计",
+                        "value": "101310002",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101310003",
+                        "text": "投诉建议统计",
+                        "value": "101310003",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101310004",
+                        "text": "网站统计",
+                        "value": "101310004",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    },
+                    {
+                        "id": "101310005",
+                        "text": "平台日志",
+                        "value": "101310005",
+                        "showcheck": true,
+                        "complete": true,
+                        "isexpand": false,
+                        "checkstate": 1,
+                        "hasChildren": false
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "",
+    "remark": ""
+}
+{"returncode":1,"data":{"id":"a_0","text":"菜单目录","value":"a_0","showcheck":true,"complete":true,"isexpand":true,"checkstate":0,"ChildNodes":[{"id":"1001","text":"首页","value":"1001","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100110001","text":"首页","value":"100110001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1002","text":"小区管理","value":"1002","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100210001","text":"开通小区","value":"100210001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100210002","text":"小区帐号管理","value":"100210002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1003","text":"通知消息","value":"1003","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100310001","text":"通知列表","value":"100310001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100310002","text":"发布通知","value":"100310002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1004","text":"广告管理","value":"1004","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100410001","text":"广告位管理","value":"100410001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100410002","text":"广告审核","value":"100410002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1005","text":"调查问卷","value":"1005","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100510001","text":"问卷管理","value":"100510001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100510002","text":"问卷历史","value":"100510002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1006","text":"红包积分","value":"1006","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100610001","text":"红包发放","value":"100610001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100610002","text":"分享内容设置","value":"100610002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100610003","text":"积分统计","value":"100610003","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1007","text":"用户管理","value":"1007","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100710001","text":"租户业主管理","value":"100710001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100710002","text":"运营用户管理","value":"100710002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1008","text":"业主档案","value":"1008","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100810001","text":"业主档案管理","value":"100810001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1009","text":"周边服务","value":"1009","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"100910001","text":"基础设施","value":"100910001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"100910002","text":"设施类型","value":"100910002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1010","text":"信息审核","value":"1010","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"101010001","text":"动态审核","value":"101010001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101010002","text":"闪屏设置","value":"101010002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101010003","text":"闪屏审核","value":"101010003","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1011","text":"商家管理","value":"1011","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"101110001","text":"店铺列表","value":"101110001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110002","text":"商品列表","value":"101110002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110003","text":"积分商城","value":"101110003","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110004","text":"商家类别设置","value":"101110004","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110005","text":"促销活动设置","value":"101110005","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110006","text":"支付方式设置","value":"101110006","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110007","text":"配送方式设置","value":"101110007","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110008","text":"商家统计","value":"101110008","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110009","text":"商城广告位管理","value":"101110009","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110010","text":"商城广告审核","value":"101110010","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110011","text":"促销广告","value":"101110011","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101110012","text":"促销广告审核","value":"101110012","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1012","text":"结算管理","value":"1012","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"101210001","text":"物业结算","value":"101210001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101210002","text":"商家结算","value":"101210002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]},{"id":"1013","text":"运营统计","value":"1013","showcheck":true,"complete":true,"isexpand":true,"checkstate":1,"ChildNodes":[{"id":"101310001","text":"消息通知统计","value":"101310001","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101310002","text":"报修统计","value":"101310002","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101310003","text":"投诉建议统计","value":"101310003","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101310004","text":"网站统计","value":"101310004","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false},{"id":"101310005","text":"平台日志","value":"101310005","showcheck":true,"complete":true,"isexpand":false,"checkstate":1,"hasChildren":false}]}]},"message":"","remark":""}
+{"returncode":1,"data":{"id":"a_c1","text":"海德堡","value":"a_c1","showcheck":true,"complete":true,"isexpand":true,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"b_d02","text":"东二区","value":"b_d02","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"c_23","text":"A座","value":"c_23","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"24","text":"2单元1203","value":"24","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false},{"id":"26","text":"112单元112","value":"26","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false}]}]},{"id":"b_d03","text":"东三区","value":"b_d03","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"c_22","text":"测试楼","value":"c_22","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"23","text":"12单元1210","value":"23","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false}]}]},{"id":"b_d01","text":"东一区","value":"b_d01","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"c_20","text":"东一区一号楼","value":"c_20","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"18","text":"1单元303","value":"18","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false},{"id":"19","text":"1单元206","value":"19","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false},{"id":"20","text":"2单元603","value":"20","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false}]},{"id":"c_21","text":"东一区二号楼","value":"c_21","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"21","text":"4单元502","value":"21","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false},{"id":"22","text":"4单元902","value":"22","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false}]}]},{"id":"b_D00","text":"本区","value":"b_D00","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"c_24","text":"1#","value":"c_24","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":true,"ChildNodes":[{"id":"25","text":"1单元101","value":"25","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false}]},{"id":"c_34","text":"a","value":"c_34","showcheck":true,"complete":true,"isexpand":false,"checkstate":0,"hasChildren":false}]}]},"message":"","remark":""}
+
+
+{"returncode":1,"data":[
+{"menuGroup":{"platformType":1,"groupCode":"1002","title":"小区管理","orderno":2,"desc":"小区管理","remark":"小区管理(运营平台)","icon":"fa fa-cogs","id":2},
+"menuList":[{"platformType":1,"code":"100210001","title":"开通小区","desc":"开通小区","type":1,"url":"communityCreation.html","groupcode":"1002","orderno":1,"remark":"小区管理下的开通小区","icon":"","status":1,"id":2},{"platformType":1,"code":"100210002","title":"小区帐号管理","desc":"小区帐号管理","type":1,"url":"communityManagement.html","groupcode":"1002","orderno":2,"remark":"小区管理下的小区帐号管理","icon":"","status":1,"id":3}]},{"menuGroup":{"platformType":1,"groupCode":"1003","title":"通知消息","orderno":3,"desc":"通知消息","remark":"通知消息(运营平台)","icon":"fa fa-twitter","id":3},"menuList":[{"platformType":1,"code":"100310001","title":"通知列表","desc":"通知列表","type":1,"url":"notice_list.html","groupcode":"1003","orderno":1,"remark":"通知消息下通知列表","icon":"","status":1,"id":4},{"platformType":1,"code":"100310002","title":"发布通知","desc":"发布通知","type":1,"url":"notice_release.html","groupcode":"1003","orderno":2,"remark":"通知消息下发布通知","icon":"","status":1,"id":5}]},{"menuGroup":{"platformType":1,"groupCode":"1004","title":"广告管理","orderno":4,"desc":"广告管理","remark":"广告管理(运营平台)","icon":"fa fa-heart","id":4},"menuList":[{"platformType":1,"code":"100410001","title":"广告位管理","desc":"广告位管理","type":1,"url":"ADManagement.html?type\u003d1","groupcode":"1004","orderno":1,"remark":"广告管理下的广告位管理","icon":"","status":1,"id":6},{"platformType":1,"code":"100410002","title":"广告审核","desc":"广告审核","type":1,"url":"ADAuditManage.html?type\u003d1","groupcode":"1004","orderno":2,"remark":"广告管理下的广告审核","icon":"","status":1,"id":7}]},{"menuGroup":{"platformType":1,"groupCode":"1005","title":"调查问卷","orderno":5,"desc":"调查问卷","remark":"调查问卷(运营平台)","icon":"fa fa-eye","id":5},"menuList":[{"platformType":1,"code":"100510001","title":"问卷管理","desc":"问卷管理","type":1,"url":"survey_manage.html","groupcode":"1005","orderno":1,"remark":"调查问卷下的问卷管理","icon":"","status":1,"id":8},{"platformType":1,"code":"100510002","title":"问卷历史","desc":"问卷历史","type":1,"url":"survey_history.html","groupcode":"1005","orderno":2,"remark":"调查问卷下的问卷历史","icon":"","status":1,"id":9}]},{"menuGroup":{"platformType":1,"groupCode":"1006","title":"红包积分","orderno":6,"desc":"红包积分","remark":"红包积分(运营平台)","icon":"fa fa-th","id":6},"menuList":[{"platformType":1,"code":"100610001","title":"红包发放","desc":"红包发放","type":1,"url":"gift_detail.html","groupcode":"1006","orderno":1,"remark":"红包积分下的红包发放","icon":"","status":1,"id":10},{"platformType":1,"code":"100610002","title":"分享内容设置","desc":"分享内容设置","type":1,"url":"gift_set.html","groupcode":"1006","orderno":2,"remark":"红包积分下的分享内容设置","icon":"","status":1,"id":11},{"platformType":1,"code":"100610003","title":"积分统计","desc":"积分统计","type":1,"url":"integral_manage.html","groupcode":"1006","orderno":3,"remark":"红包积分下的积分统计","icon":"","status":1,"id":12}]},{"menuGroup":{"platformType":1,"groupCode":"1007","title":"用户管理","orderno":7,"desc":"用户管理","remark":"用户管理(运营平台)","icon":"fa fa-user","id":7},"menuList":[{"platformType":1,"code":"100710001","title":"租户业主管理","desc":"租户业主管理","type":1,"url":"user_manage_owner.html","groupcode":"1007","orderno":1,"remark":"用户管理下的租户业主管理","icon":"","status":1,"id":13},{"platformType":1,"code":"100710002","title":"运营用户管理","desc":"运营用户管理","type":1,"url":"user_manage_staff.html","groupcode":"1007","orderno":2,"remark":"用户管理下的运营用户管理","icon":"","status":1,"id":14}]},{"menuGroup":{"platformType":1,"groupCode":"1008","title":"业主档案","orderno":8,"desc":"业主档案","remark":"业主档案(运营平台)","icon":"fa fa-group","id":8},"menuList":[{"platformType":1,"code":"100810001","title":"业主档案管理","desc":"业主档案管理","type":1,"url":"ownerRecords.html","groupcode":"1008","orderno":1,"remark":"业主档案下的业主档案管理","icon":"","status":1,"id":15}]},{"menuGroup":{"platformType":1,"groupCode":"1009","title":"周边服务","orderno":9,"desc":"周边服务","remark":"周边服务(运营平台)","icon":"fa fa-bicycle","id":9},"menuList":[{"platformType":1,"code":"100910001","title":"基础设施","desc":"基础设施","type":1,"url":"facility_maintain.html","groupcode":"1009","orderno":1,"remark":"周边服务下的基础设施","icon":"","status":1,"id":16},{"platformType":1,"code":"100910002","title":"设施类型","desc":"设施类型","type":1,"url":"facility_type.html","groupcode":"1009","orderno":2,"remark":"周边服务下的设施类型","icon":"","status":1,"id":17}]},{"menuGroup":{"platformType":1,"groupCode":"1010","title":"信息审核","orderno":10,"desc":"信息审核","remark":"信息审核(运营平台)","icon":"fa fa-file-o","id":10},"menuList":[{"platformType":1,"code":"101010001","title":"动态审核","desc":"动态审核","type":1,"url":"state_manage.html","groupcode":"1010","orderno":1,"remark":"信息审核下的动态审核","icon":"","status":1,"id":18},{"platformType":1,"code":"101010002","title":"闪屏设置","desc":"闪屏设置","type":1,"url":"flashManagement.html","groupcode":"1010","orderno":2,"remark":"信息审核下的闪屏设置","icon":"","status":1,"id":19},{"platformType":1,"code":"101010003","title":"闪屏审核","desc":"闪屏审核","type":1,"url":"flashAuditManage.html","groupcode":"1010","orderno":3,"remark":"信息审核下的闪屏审核","icon":"","status":1,"id":20}]},{"menuGroup":{"platformType":1,"groupCode":"1011","title":"商家管理","orderno":11,"desc":"商家管理","remark":"商家管理(运营平台)","icon":"fa fa-user-secret","id":11},"menuList":[{"platformType":1,"code":"101110001","title":"店铺列表","desc":"店铺列表","type":1,"url":"eshop_manage.html","groupcode":"1011","orderno":1,"remark":"商家管理下的店铺列表","icon":"","status":1,"id":21},{"platformType":1,"code":"101110002","title":"商品列表","desc":"商品列表","type":1,"url":"goods_manage.html","groupcode":"1011","orderno":2,"remark":"商家管理下的商品列表","icon":"","status":1,"id":22},{"platformType":1,"code":"101110003","title":"积分商城","desc":"积分商城","type":1,"url":"vantage_manage.html","groupcode":"1011","orderno":3,"remark":"商家管理下的积分商城","icon":"","status":1,"id":23},{"platformType":1,"code":"101110004","title":"商家类别设置","desc":"商家类别设置","type":1,"url":"eshoptype_manage.html","groupcode":"1011","orderno":4,"remark":"商家管理下的商家类别设置","icon":"","status":1,"id":24},{"platformType":1,"code":"101110005","title":"促销活动设置","desc":"促销活动设置","type":1,"url":"activity_manage.html","groupcode":"1011","orderno":5,"remark":"商家管理下的促销活动设置","icon":"","status":1,"id":25},{"platformType":1,"code":"101110006","title":"支付方式设置","desc":"支付方式设置","type":1,"url":"paytype_manage.html","groupcode":"1011","orderno":6,"remark":"商家管理下的支付方式设置","icon":"","status":1,"id":26},{"platformType":1,"code":"101110007","title":"配送方式设置","desc":"配送方式设置","type":1,"url":"expresstype_manage.html","groupcode":"1011","orderno":7,"remark":"商家管理下的配送方式设置","icon":"","status":1,"id":27},{"platformType":1,"code":"101110008","title":"商家统计","desc":"费用结算","type":1,"url":"shoporderStatistics.html","groupcode":"1011","orderno":8,"remark":"商家管理下的费用结算","icon":"","status":1,"id":28},{"platformType":1,"code":"101110009","title":"商城广告位管理","desc":"商城广告位设置","type":1,"url":"ADManagement.html?type\u003d2","groupcode":"1011","orderno":9,"remark":"商家管理下的商城广告位设置","icon":"","status":1,"id":29},{"platformType":1,"code":"101110010","title":"商城广告审核","desc":"商城广告审核","type":1,"url":"ADAuditManage.html?type\u003d2","groupcode":"1011","orderno":10,"remark":"商家管理下的商城广告审核","icon":"","status":1,"id":30},{"platformType":1,"code":"101110011","title":"促销广告","desc":"促销广告","type":1,"url":"ADManagement.html?type\u003d3","groupcode":"1011","orderno":11,"remark":"商家管理下的促销广告","icon":"","status":1,"id":31},{"platformType":1,"code":"101110012","title":"促销广告审核","desc":"促销广告审核","type":1,"url":"ADAuditManage.html?type\u003d3","groupcode":"1011","orderno":12,"remark":"商家管理下的促销广告审核","icon":"","status":1,"id":32}]},{"menuGroup":{"platformType":1,"groupCode":"1012","title":"结算管理","orderno":12,"desc":"结算管理","remark":"结算管理(运营平台)","icon":"fa fa-random","id":12},"menuList":[{"platformType":1,"code":"101210001","title":"物业结算","desc":"物业结算","type":1,"url":"property_manage.html","groupcode":"1012","orderno":1,"remark":"结算管理下的物业结算","icon":"","status":1,"id":33},{"platformType":1,"code":"101210002","title":"商家结算","desc":"商家结算","type":1,"url":"shopbilling_manage.html","groupcode":"1012","orderno":2,"remark":"结算管理下的商家结算","icon":"","status":1,"id":34}]},{"menuGroup":{"platformType":1,"groupCode":"1013","title":"运营统计","orderno":13,"desc":"运营统计","remark":"运营统计(运营平台)","icon":"fa fa-pie-chart","id":13},"menuList":[{"platformType":1,"code":"101310001","title":"消息通知统计","desc":"消息通知统计","type":1,"url":"noticeStatiistics.html","groupcode":"1013","orderno":1,"remark":"运营统计下的消息通知统计","icon":"","status":1,"id":35},{"platformType":1,"code":"101310002","title":"报修统计","desc":"报修统计","type":1,"url":"repairStatistics.html","groupcode":"1013","orderno":2,"remark":"运营统计下的报修统计","icon":"","status":1,"id":36},{"platformType":1,"code":"101310003","title":"投诉建议统计","desc":"投诉建议统计","type":1,"url":"reportStatistics.html","groupcode":"1013","orderno":3,"remark":"运营统计下的投诉建议统计","icon":"","status":1,"id":37},{"platformType":1,"code":"101310004","title":"网站统计","desc":"网站统计","type":1,"url":"loginStatistics.html","groupcode":"1013","orderno":4,"remark":"运营统计下的网站统计","icon":"","status":1,"id":38},{"platformType":1,"code":"101310005","title":"平台日志","desc":"平台日志","type":1,"url":"platformLog.html","groupcode":"1013","orderno":5,"remark":"运营统计下的平台日志","icon":"","status":1,"id":39}]}],"message":"","remark":""}
+
+
+<li class="mt">
+		                  	<a class="active" href="index.html" target="mainContainer">
+		                      	<i class="fa fa-dashboard"></i>
+		                      	<span>首页</span>
+		                  	</a>
+		              	</li>
+					  
+						<li class="sub-menu">
+		                  	<a   href="javascript:;" >
+		                    	<i class="fa fa-twitter"></i>
+		                       <span>通知消息</span> 
+		                  	</a>
+		                  	<ul class="sub">
+		                      	<li><a  href="notice_list.html" target="mainContainer">通知列表</a></li>
+		                      	<li><a  href="notice_release.html" target="mainContainer">发布通知</a></li>
+		                  	</ul>
+		            	</li>
+		
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                      	<i class="fa fa-heart"></i>
+		                      	<span>物业服务</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                      	<li><a  href="property_repair.html" target="mainContainer">物业报修</a></li>
+		                      	<li><a  href="property_advice.html" target="mainContainer">投诉建议</a></li>
+		                  	</ul>
+		              	</li>
+		
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                     	<i class="fa fa-cogs"></i>
+		                      	<span>缴费管理</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                      	<li><a  href="pay_list.html" target="mainContainer">缴费列表</a></li>
+		                      	<li><a  href="pay_statistic.html" target="mainContainer">缴费统计</a></li>
+		                  	</ul>
+		              	</li>
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                      	<i class="fa fa-eye"></i>
+		                      	<span>调查问卷</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                      	<li><a  href="survey_manage.html" target="mainContainer">问卷管理</a></li>
+		                      	<li><a  href="survey_history.html" target="mainContainer">问卷历史</a></li>
+		                  	</ul>
+		              	</li>
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                      	<i class="fa fa-th"></i>
+		                      	<span>小区管理</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                      	<li><a  href="estate_info.html" target="mainContainer">小区信息</a></li>
+		                      	<li><a  href="estate_property_info.html" target="mainContainer">物业信息</a></li>
+		                      	<li><a  href="estate_property.html" target="mainContainer">物业介绍</a></li>
+		                      	<li><a  href="estate_smaintain.html" target="mainContainer">服务标准</a></li>
+		                      	<!-- <li><a  href="estate_cstandard.html" target="mainContainer">缴费标准</a></li> -->
+		                      	<li><a 	href="estate_partmanage.html" target="mainContainer">分区管理</a></li>
+		                      	<li><a  href="estate_hmanage.html" target="mainContainer">房屋管理</a></li>     
+		                      	<li><a  href="estate_emaintain.html" target="mainContainer">物业人员</a></li>
+		                      	<li><a  href="estate_cmaintain.html" target="mainContainer">业务通讯录</a></li>     	
+		                  	</ul>
+		              	</li>
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                      	<i class=" fa fa-bicycle"></i>
+		                      	<span>周边设施</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                  		<li><a 	href="facility_contact.html" target="mainContainer">常用联系人</a></li>
+		                  		<li><a 	href="facility_guide.html" target="mainContainer">办事指南</a></li>
+		                      	<li><a  href="facility_phone.html" target="mainContainer">快捷电话</a></li>
+		                      	<li><a  href="facility_maintain.html" target="mainContainer">基础设施</a></li>
+		                      	<li><a  href="facility_type.html" target="mainContainer">设施类型</a></li>                 	
+		                  	</ul>
+		              	</li>
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                      	<i class="fa fa-user-secret"></i>
+		                      	<span>业主档案</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                  		<li><a 	href="owner_records.html" target="mainContainer">业主档案</a></li>
+		                  	</ul>
+		              	</li>
+		              	<li class="sub-menu">
+		                  	<a href="javascript:;" >
+		                      	<i class=" fa fa-user"></i>
+		                      	<span>用户管理</span>
+		                  	</a>
+		                  	<ul class="sub">
+		                  		<li><a  href="user_manage_owner.html" target="mainContainer">租户业主管理</a></li>
+		                      	<li><a  href="user_manage_staff.html" target="mainContainer">物业帐号管理</a></li>
+		                  	</ul>
+		              	</li>
